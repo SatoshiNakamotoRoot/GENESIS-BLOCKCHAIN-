@@ -46,7 +46,7 @@ int main() {
         0xe0, 0xdd, 0x22, 0x72, 0x83, 0x2e, 0xad, 0x94, 0xa6, 0x3b, 0x01, 0x24, 0x2e, 0xe2
     };
 
-    // Output formatted hex stream for mobile hardware validation
+    // Output formatted hex stream for validation
     std::cout << "--- MASTER GENESIS LATTICE STREAM ---" << std::endl;
     for (size_t i = 0; i < genesis_stream.size(); ++i) {
         std::cout << std::hex << std::setw(2) << std::setfill('0') << (int)genesis_stream[i];
