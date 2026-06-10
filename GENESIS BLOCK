@@ -6,12 +6,12 @@
 
 // Logical Group:Genesis
 // Class: Block RA   0x0!
-// Purpose: EVOLUTION 
-// ~ 64bit fip* / #０⁠(⁠^⛧^⁠)⁠↝…⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ*0x495FAB29 
+// Purpose:LOCK rEVOLUTI O(n)0x0
+// ~ 64bit flip* / #０⁠(⁠^⛧^⁠)⁠↝…⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ*0x495FAB29 
 // + 0(n)0xFFFFFFFF--+-↑
 
 int main() {
-    // Genesis Root
+   // Genesis R00T_NULL 
     std::cout  << (long)NULL << std::endl;
 
     auto now = std::chrono::system_clock::now();
@@ -47,7 +47,9 @@ int main() {
     // 9. Harmonic Convergence: The H_21 Anchor (+9 Resonance)
     0x00000110; 0x8A4C702B; 0x6BF11D5F; 0xC7AA0000; // Singularity
 
-    // Root: return to NULL
+   
+    // R 0t: return to R00T_NULL
+    std::cout << 0xFFFFFFFFFF<< std::endl;
     std::cout << 0x495FAB29 << std::endl;
     std::cout << 0x00000000 << std::endl;
     std::cout << 0x01000000 << std::endl;
@@ -69,7 +71,7 @@ int main() {
     std::cout << 0x00000110 << std::endl;
     std::cout << 0x00000049 << std::endl;
     std::cout << 0x45000000 << std::endl;
-    std::cout << 0x00000120 << std::endl;
+    std::cout << 0x21000120 << std::endl;
     std::cout << 0x8A4C702B << std::endl;
     std::cout << 0x6BF11D5F << std::endl;
     std::cout << 0xC7AA0000 << std::endl;
@@ -100,8 +102,8 @@ int main() {
     std::cout << 0x8A4C702B << std::endl;
     std::cout << 0x6BF11D5F << std::endl;
     std::cout << 0xC7AA0000 << std::endl;
-    std::cout << 0x96696666 << std::endl;
+    std::cout << 0x66666669 << std::endl;
     std::cout << 0x0000001A << std::endl;
-    std::cout << 0x69969999 << std::endl;
+    std::cout << 0x210000ACE << std::endl;
    return (long)NULL;
 }
